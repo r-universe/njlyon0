@@ -1,0 +1,10 @@
+[
+  {
+    "package": "dndR",
+    "oncran": true
+  },
+  {
+    "package": "supportR",
+    "oncran": true
+  }
+]
